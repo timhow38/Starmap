@@ -1,0 +1,10 @@
+
+/* Base Window Style */
+.ui-draggable {
+    border-radius: 5px;
+    -webkit-box-shadow: var(--webkit-boxshadow);
+    -moz-box-shadow: var(--moz-boxshadow);
+    box-shadow: var(--box-boxshadow);
+    background-color: #111;
+    border: solid 1px #c21217;
+}
